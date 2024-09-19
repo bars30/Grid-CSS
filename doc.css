@@ -1,0 +1,42 @@
+* {
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+}
+
+body {
+ background-color: #ffffff; /* White background */
+ background-image: radial-gradient(circle, #ccc 1px, transparent 1px); /* Create the dots */
+ background-size: 20px 20px; /* Spacing between dots */
+}
+
+h1 , h3, h4, h5, h6, hr {
+ color: #EFA377;
+}
+h2 {
+ color: #c1573d;
+}
+.cont {
+ width: 90%;
+ margin: auto;
+ padding: 25px 0;
+}
+hr {
+ height: 8px;
+ background-color: #EFA377;
+ border-radius: 55px;
+ border: none;
+}
+.g-item img {
+ max-height: 200px;
+}
+.arrow {
+ width: 100px;
+}
+
+
+
+
+
+
+
